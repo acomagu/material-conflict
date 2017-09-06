@@ -2,7 +2,7 @@
 
 int main() {
   int i, ans = 0;
-  for(i = 0; i < 10; i++) {
+  for(i = 0; i < 100; i++) {
     ans += i;
   }
   printf("Answer: %d", ans);
